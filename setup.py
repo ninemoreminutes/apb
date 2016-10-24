@@ -44,7 +44,7 @@ setup(
     ],
     entry_points = {
         'console_scripts': [
-            'apb = apb.runner:main',
+            'apb = apb.main:main',
         ],
     },
     data_files=[],
